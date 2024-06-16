@@ -3,3 +3,4 @@ specialization in Web Technologies.
 This project is a Website for a company that deals with WEB DESIGNING.
 For this project, I have used HTML, CSS and JAVASCRIPT for front- end, and MYSQL plus NODE.JS for the backend.
 I have also hosted the work on FIREBASE, VERCEL and NETLIFY.
+
